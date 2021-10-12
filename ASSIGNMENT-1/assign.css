@@ -1,0 +1,138 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+header {
+    background-color: red;
+    height:80px;
+    position: relative;
+}
+.logo {
+    color: red;
+    font-size: 33px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.logo-span {
+    background-color:white ;
+    border-radius: 50%;
+    padding:5px 15px;
+    position:absolute;
+    left:80px;
+    top:15px;
+}
+.login-signup {
+    position:absolute;
+    right:80px;
+    top:30px;
+    word-spacing: 10px;
+}
+.login{
+    color: white;
+    text-decoration: none;
+    border:1px solid white;
+    padding: 10px 10px;
+}
+.createaccount{
+    color: white;
+    word-spacing: normal;
+    text-decoration: none;
+    border:1px solid white;
+    padding: 10px 10px;
+}
+
+section {
+    position: relative;
+    padding: 20px 50px;
+
+}
+
+.title-text {
+color:#192f60;
+font-weight: 600;
+font-size: 36px;
+margin-bottom:20px;
+}
+
+.filters-article {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  width: 260px;
+  height: 682px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  padding:20px 30px;
+  
+}
+.result-article {
+    width: 794px;
+  height: 291px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  position: absolute;
+  top: 87px;
+  left: 400px;
+
+  
+}
+.result2-article {
+    width: 794px;
+  height: 291px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  position: absolute;
+  top: 430px;
+  left: 400px;
+
+}
+.pagination{
+    position:absolute;
+    bottom:20px;
+    left:50%;
+}
+.l {
+    text-decoration: none;
+    width: 36px;
+    height: 36px;
+    margin: 0 13px 0 0;
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    border: solid 2px #8c96ab;
+    background-color: #fff;
+  }
+.g {
+    text-decoration: none;
+    width: 36px;
+    height: 36px;
+    margin: 0 13px 0 0;
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    border: solid 2px #8c96ab;
+    background-color: #fff;
+
+}
+.big-cakery {
+    display:inline-block;
+    vertical-align:top
+}
+.big-chill {
+    margin-left: 60px;
+}
+.img {
+    width: 120px;
+  height: 120px;
+  margin: 0 41px 31px 0;
+  object-fit: contain;
+}
+
+}
+
+
+
+
